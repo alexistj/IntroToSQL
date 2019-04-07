@@ -32,7 +32,9 @@ Should look like: ![PhpMyAdmin](https://www.dummies.com/wp-content/uploads/37805
     2. You should be able to see the SQL tab.
     3. Practice inserting, updating and deleting
     Check the commandExamples.SQL file for examples.
-        
-        
-        
-       
+
+6. Checkout how to implement SQL with PHP 
+    1. Go to the Student Course Management folder 
+    2. Look at code. 
+    3. For info to serve the PHP pages https://www.techwalla.com/articles/how-to-run-a-php-file-in-xampp
+    
